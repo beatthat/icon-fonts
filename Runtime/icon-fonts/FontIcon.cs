@@ -1,33 +1,24 @@
 using BeatThat.Properties;
 using UnityEngine;
 
-namespace BeatThat
+namespace BeatThat.IconFonts
 {
     public class FontIcon : PropertyBinding<IHasText, HasText>, IDrive<IHasText>
 	{
         [SerializeField][HideInInspector]private string m_icon;
         [SerializeField] [HideInInspector]private CodePointsAsset m_codePoints;
 
-		//#region IDrive implementation
-		//public object GetDrivenObject ()
-		//{
-		//	return this.driven;
-		//}
-		//public bool ClearDriven ()
-		//{
-		//	m_driven = null; return true;
-		//}
-		//#endregion
-		//#region IDrive implementation
-		//public HasText m_driven;
-		//public IHasText driven { get { return m_driven?? (m_driven = this.GetSiblingComponent<HasText>()); } } 
-		//#endregion
+        public CodePointsAsset codePoints { get { return m_codePoints; } }
+        public string icon { get { return m_icon; } }
 
-		//void Start()
-		//{
-		//	UpdateDisplay ();
-		//}
-		
+        public void SetIcon(string icon, bool updateDisplay = true)
+        {
+            m_icon = icon;
+            if(updateDisplay) {
+                UpdateDisplay();
+            }
+        }
+
         override protected void BindProperty()
         {
             UpdateDisplay();            

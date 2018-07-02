@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace BeatThat
+namespace BeatThat.IconFonts
 {
     [Serializable]
 	public class CodePointsAsset : ScriptableObject
@@ -14,6 +14,8 @@ namespace BeatThat
 		}
 
 		public CodePoint[] m_codePoints;
+
+        public CodePoint[] GetCodePoints() { return m_codePoints; }
 
 		public void Sort()
 		{

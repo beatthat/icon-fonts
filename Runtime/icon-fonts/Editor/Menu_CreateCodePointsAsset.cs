@@ -2,7 +2,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace BeatThat
+namespace BeatThat.IconFonts
 {
 
     public static class Menu_CreateCodePointsAsset

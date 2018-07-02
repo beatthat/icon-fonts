@@ -3,7 +3,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace BeatThat
+namespace BeatThat.IconFonts
 {
     [CustomEditor(typeof(CodePointsAsset), true)]
 	[CanEditMultipleObjects]

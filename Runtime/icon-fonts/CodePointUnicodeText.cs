@@ -2,7 +2,7 @@ using BeatThat.Properties;
 using BeatThat.TransformPathExt;
 using UnityEngine;
 
-namespace BeatThat
+namespace BeatThat.IconFonts
 {
     public class CodePointUnicodeText : TextProp
 	{

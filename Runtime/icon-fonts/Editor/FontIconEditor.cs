@@ -5,7 +5,7 @@ using BeatThat.Properties;
 using UnityEditor;
 using UnityEngine;
 
-namespace BeatThat
+namespace BeatThat.IconFonts
 {
     [CustomEditor(typeof(FontIcon), true)]
 	[CanEditMultipleObjects]

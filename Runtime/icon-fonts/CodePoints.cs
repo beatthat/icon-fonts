@@ -1,8 +1,9 @@
 using System.Collections.Generic;
 using System.Globalization;
+using System.Linq;
 using UnityEngine;
 
-namespace BeatThat
+namespace BeatThat.IconFonts
 {
     public static class CodePoints 
 	{
@@ -53,8 +54,20 @@ namespace BeatThat
 			}
 
 			// TODO handle asHex = true
-			return codePointsByKey.TryGetValue (key, out code);
+            if(!codePointsByKey.TryGetValue (key, out code)) {
+                return false;
+            }
+
+            code = asHex ? Code2Hex(code): code;
+
+            return true;
 		}
+
+        public static string Code2Hex(string code)
+        {
+            return System.Text.Encoding.Unicode.GetBytes(code)
+            .Aggregate("", (agg, val) => agg + val.ToString("X2"));    
+        }
 
 		public static bool Hex2Code(string hex, out string code)
 		{
