@@ -1,7 +1,7 @@
 {
   "name": "icon-fonts",
   "scope": "beatthat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Makes it more convenient to use font-based icons in Unity",
   "main": "index.js",
   "scripts": {
