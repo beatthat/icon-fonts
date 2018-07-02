@@ -12,9 +12,1867 @@ MonoBehaviour:
   m_Name: __EXAMPLE_MaterialUI-Icon-CodePoints
   m_EditorClassIdentifier: 
   m_codePoints:
+  - key: 3d_rotation
+    code: e84d
+  - key: ac_unit
+    code: eb3b
+  - key: access_alarm
+    code: e190
+  - key: access_alarms
+    code: e191
+  - key: access_time
+    code: e192
+  - key: accessibility
+    code: e84e
+  - key: accessible
+    code: e914
+  - key: account_balance
+    code: e84f
+  - key: account_balance_wallet
+    code: e850
+  - key: account_box
+    code: e851
+  - key: account_circle
+    code: e853
+  - key: adb
+    code: e60e
+  - key: add
+    code: e145
+  - key: add_a_photo
+    code: e439
+  - key: add_alarm
+    code: e193
+  - key: add_alert
+    code: e003
+  - key: add_box
+    code: e146
+  - key: add_circle
+    code: e147
+  - key: add_circle_outline
+    code: e148
+  - key: add_location
+    code: e567
+  - key: add_shopping_cart
+    code: e854
+  - key: add_to_photos
+    code: e39d
+  - key: add_to_queue
+    code: e05c
+  - key: adjust
+    code: e39e
+  - key: airline_seat_flat
+    code: e630
+  - key: airline_seat_flat_angled
+    code: e631
+  - key: airline_seat_individual_suite
+    code: e632
+  - key: airline_seat_legroom_extra
+    code: e633
+  - key: airline_seat_legroom_normal
+    code: e634
+  - key: airline_seat_legroom_reduced
+    code: e635
+  - key: airline_seat_recline_extra
+    code: e636
+  - key: airline_seat_recline_normal
+    code: e637
+  - key: airplanemode_active
+    code: e195
+  - key: airplanemode_inactive
+    code: e194
+  - key: airplay
+    code: e055
+  - key: airport_shuttle
+    code: eb3c
+  - key: alarm
+    code: e855
+  - key: alarm_add
+    code: e856
+  - key: alarm_off
+    code: e857
+  - key: alarm_on
+    code: e858
+  - key: album
+    code: e019
+  - key: all_inclusive
+    code: eb3d
+  - key: all_out
+    code: e90b
+  - key: android
+    code: e859
+  - key: announcement
+    code: e85a
+  - key: apps
+    code: e5c3
+  - key: archive
+    code: e149
+  - key: arrow_back
+    code: e5c4
+  - key: arrow_downward
+    code: e5db
+  - key: arrow_drop_down
+    code: e5c5
+  - key: arrow_drop_down_circle
+    code: e5c6
+  - key: arrow_drop_up
+    code: e5c7
   - key: arrow_forward
     code: e5c8
   - key: arrow_upward
     code: e5d8
-  - key: arrow_back
-    code: e5c4
+  - key: art_track
+    code: e060
+  - key: aspect_ratio
+    code: e85b
+  - key: assessment
+    code: e85c
+  - key: assignment
+    code: e85d
+  - key: assignment_ind
+    code: e85e
+  - key: assignment_late
+    code: e85f
+  - key: assignment_return
+    code: e860
+  - key: assignment_returned
+    code: e861
+  - key: assignment_turned_in
+    code: e862
+  - key: assistant
+    code: e39f
+  - key: assistant_photo
+    code: e3a0
+  - key: attach_file
+    code: e226
+  - key: attach_money
+    code: e227
+  - key: attachment
+    code: e2bc
+  - key: audiotrack
+    code: e3a1
+  - key: autorenew
+    code: e863
+  - key: av_timer
+    code: e01b
+  - key: backspace
+    code: e14a
+  - key: backup
+    code: e864
+  - key: battery_alert
+    code: e19c
+  - key: battery_charging_full
+    code: e1a3
+  - key: battery_full
+    code: e1a4
+  - key: battery_std
+    code: e1a5
+  - key: battery_unknown
+    code: e1a6
+  - key: beach_access
+    code: eb3e
+  - key: beenhere
+    code: e52d
+  - key: block
+    code: e14b
+  - key: bluetooth
+    code: e1a7
+  - key: bluetooth_audio
+    code: e60f
+  - key: bluetooth_connected
+    code: e1a8
+  - key: bluetooth_disabled
+    code: e1a9
+  - key: bluetooth_searching
+    code: e1aa
+  - key: blur_circular
+    code: e3a2
+  - key: blur_linear
+    code: e3a3
+  - key: blur_off
+    code: e3a4
+  - key: blur_on
+    code: e3a5
+  - key: book
+    code: e865
+  - key: bookmark
+    code: e866
+  - key: bookmark_border
+    code: e867
+  - key: border_all
+    code: e228
+  - key: border_bottom
+    code: e229
+  - key: border_clear
+    code: e22a
+  - key: border_color
+    code: e22b
+  - key: border_horizontal
+    code: e22c
+  - key: border_inner
+    code: e22d
+  - key: border_left
+    code: e22e
+  - key: border_outer
+    code: e22f
+  - key: border_right
+    code: e230
+  - key: border_style
+    code: e231
+  - key: border_top
+    code: e232
+  - key: border_vertical
+    code: e233
+  - key: branding_watermark
+    code: e06b
+  - key: brightness_1
+    code: e3a6
+  - key: brightness_2
+    code: e3a7
+  - key: brightness_3
+    code: e3a8
+  - key: brightness_4
+    code: e3a9
+  - key: brightness_5
+    code: e3aa
+  - key: brightness_6
+    code: e3ab
+  - key: brightness_7
+    code: e3ac
+  - key: brightness_auto
+    code: e1ab
+  - key: brightness_high
+    code: e1ac
+  - key: brightness_low
+    code: e1ad
+  - key: brightness_medium
+    code: e1ae
+  - key: broken_image
+    code: e3ad
+  - key: brush
+    code: e3ae
+  - key: bubble_chart
+    code: e6dd
+  - key: bug_report
+    code: e868
+  - key: build
+    code: e869
+  - key: burst_mode
+    code: e43c
+  - key: business
+    code: e0af
+  - key: business_center
+    code: eb3f
+  - key: cached
+    code: e86a
+  - key: cake
+    code: e7e9
+  - key: call
+    code: e0b0
+  - key: call_end
+    code: e0b1
+  - key: call_made
+    code: e0b2
+  - key: call_merge
+    code: e0b3
+  - key: call_missed
+    code: e0b4
+  - key: call_missed_outgoing
+    code: e0e4
+  - key: call_received
+    code: e0b5
+  - key: call_split
+    code: e0b6
+  - key: call_to_action
+    code: e06c
+  - key: camera
+    code: e3af
+  - key: camera_alt
+    code: e3b0
+  - key: camera_enhance
+    code: e8fc
+  - key: camera_front
+    code: e3b1
+  - key: camera_rear
+    code: e3b2
+  - key: camera_roll
+    code: e3b3
+  - key: cancel
+    code: e5c9
+  - key: card_giftcard
+    code: e8f6
+  - key: card_membership
+    code: e8f7
+  - key: card_travel
+    code: e8f8
+  - key: casino
+    code: eb40
+  - key: cast
+    code: e307
+  - key: cast_connected
+    code: e308
+  - key: center_focus_strong
+    code: e3b4
+  - key: center_focus_weak
+    code: e3b5
+  - key: change_history
+    code: e86b
+  - key: chat
+    code: e0b7
+  - key: chat_bubble
+    code: e0ca
+  - key: chat_bubble_outline
+    code: e0cb
+  - key: check
+    code: e5ca
+  - key: check_box
+    code: e834
+  - key: check_box_outline_blank
+    code: e835
+  - key: check_circle
+    code: e86c
+  - key: chevron_left
+    code: e5cb
+  - key: chevron_right
+    code: e5cc
+  - key: child_care
+    code: eb41
+  - key: child_friendly
+    code: eb42
+  - key: chrome_reader_mode
+    code: e86d
+  - key: class
+    code: e86e
+  - key: clear
+    code: e14c
+  - key: clear_all
+    code: e0b8
+  - key: close
+    code: e5cd
+  - key: closed_caption
+    code: e01c
+  - key: cloud
+    code: e2bd
+  - key: cloud_circle
+    code: e2be
+  - key: cloud_done
+    code: e2bf
+  - key: cloud_download
+    code: e2c0
+  - key: cloud_off
+    code: e2c1
+  - key: cloud_queue
+    code: e2c2
+  - key: cloud_upload
+    code: e2c3
+  - key: code
+    code: e86f
+  - key: collections
+    code: e3b6
+  - key: collections_bookmark
+    code: e431
+  - key: color_lens
+    code: e3b7
+  - key: colorize
+    code: e3b8
+  - key: comment
+    code: e0b9
+  - key: compare
+    code: e3b9
+  - key: compare_arrows
+    code: e915
+  - key: computer
+    code: e30a
+  - key: confirmation_number
+    code: e638
+  - key: contact_mail
+    code: e0d0
+  - key: contact_phone
+    code: e0cf
+  - key: contacts
+    code: e0ba
+  - key: content_copy
+    code: e14d
+  - key: content_cut
+    code: e14e
+  - key: content_paste
+    code: e14f
+  - key: control_point
+    code: e3ba
+  - key: control_point_duplicate
+    code: e3bb
+  - key: copyright
+    code: e90c
+  - key: create
+    code: e150
+  - key: create_new_folder
+    code: e2cc
+  - key: credit_card
+    code: e870
+  - key: crop
+    code: e3be
+  - key: crop_16_9
+    code: e3bc
+  - key: crop_3_2
+    code: e3bd
+  - key: crop_5_4
+    code: e3bf
+  - key: crop_7_5
+    code: e3c0
+  - key: crop_din
+    code: e3c1
+  - key: crop_free
+    code: e3c2
+  - key: crop_landscape
+    code: e3c3
+  - key: crop_original
+    code: e3c4
+  - key: crop_portrait
+    code: e3c5
+  - key: crop_rotate
+    code: e437
+  - key: crop_square
+    code: e3c6
+  - key: dashboard
+    code: e871
+  - key: data_usage
+    code: e1af
+  - key: date_range
+    code: e916
+  - key: dehaze
+    code: e3c7
+  - key: delete
+    code: e872
+  - key: delete_forever
+    code: e92b
+  - key: delete_sweep
+    code: e16c
+  - key: description
+    code: e873
+  - key: desktop_mac
+    code: e30b
+  - key: desktop_windows
+    code: e30c
+  - key: details
+    code: e3c8
+  - key: developer_board
+    code: e30d
+  - key: developer_mode
+    code: e1b0
+  - key: device_hub
+    code: e335
+  - key: devices
+    code: e1b1
+  - key: devices_other
+    code: e337
+  - key: dialer_sip
+    code: e0bb
+  - key: dialpad
+    code: e0bc
+  - key: directions
+    code: e52e
+  - key: directions_bike
+    code: e52f
+  - key: directions_boat
+    code: e532
+  - key: directions_bus
+    code: e530
+  - key: directions_car
+    code: e531
+  - key: directions_railway
+    code: e534
+  - key: directions_run
+    code: e566
+  - key: directions_subway
+    code: e533
+  - key: directions_transit
+    code: e535
+  - key: directions_walk
+    code: e536
+  - key: disc_full
+    code: e610
+  - key: dns
+    code: e875
+  - key: do_not_disturb
+    code: e612
+  - key: do_not_disturb_alt
+    code: e611
+  - key: do_not_disturb_off
+    code: e643
+  - key: do_not_disturb_on
+    code: e644
+  - key: dock
+    code: e30e
+  - key: domain
+    code: e7ee
+  - key: done
+    code: e876
+  - key: done_all
+    code: e877
+  - key: donut_large
+    code: e917
+  - key: donut_small
+    code: e918
+  - key: drafts
+    code: e151
+  - key: drag_handle
+    code: e25d
+  - key: drive_eta
+    code: e613
+  - key: dvr
+    code: e1b2
+  - key: edit
+    code: e3c9
+  - key: edit_location
+    code: e568
+  - key: eject
+    code: e8fb
+  - key: email
+    code: e0be
+  - key: enhanced_encryption
+    code: e63f
+  - key: equalizer
+    code: e01d
+  - key: error
+    code: e000
+  - key: error_outline
+    code: e001
+  - key: euro_symbol
+    code: e926
+  - key: ev_station
+    code: e56d
+  - key: event
+    code: e878
+  - key: event_available
+    code: e614
+  - key: event_busy
+    code: e615
+  - key: event_note
+    code: e616
+  - key: event_seat
+    code: e903
+  - key: exit_to_app
+    code: e879
+  - key: expand_less
+    code: e5ce
+  - key: expand_more
+    code: e5cf
+  - key: explicit
+    code: e01e
+  - key: explore
+    code: e87a
+  - key: exposure
+    code: e3ca
+  - key: exposure_neg_1
+    code: e3cb
+  - key: exposure_neg_2
+    code: e3cc
+  - key: exposure_plus_1
+    code: e3cd
+  - key: exposure_plus_2
+    code: e3ce
+  - key: exposure_zero
+    code: e3cf
+  - key: extension
+    code: e87b
+  - key: face
+    code: e87c
+  - key: fast_forward
+    code: e01f
+  - key: fast_rewind
+    code: e020
+  - key: favorite
+    code: e87d
+  - key: favorite_border
+    code: e87e
+  - key: featured_play_list
+    code: e06d
+  - key: featured_video
+    code: e06e
+  - key: feedback
+    code: e87f
+  - key: fiber_dvr
+    code: e05d
+  - key: fiber_manual_record
+    code: e061
+  - key: fiber_new
+    code: e05e
+  - key: fiber_pin
+    code: e06a
+  - key: fiber_smart_record
+    code: e062
+  - key: file_download
+    code: e2c4
+  - key: file_upload
+    code: e2c6
+  - key: filter
+    code: e3d3
+  - key: filter_1
+    code: e3d0
+  - key: filter_2
+    code: e3d1
+  - key: filter_3
+    code: e3d2
+  - key: filter_4
+    code: e3d4
+  - key: filter_5
+    code: e3d5
+  - key: filter_6
+    code: e3d6
+  - key: filter_7
+    code: e3d7
+  - key: filter_8
+    code: e3d8
+  - key: filter_9
+    code: e3d9
+  - key: filter_9_plus
+    code: e3da
+  - key: filter_b_and_w
+    code: e3db
+  - key: filter_center_focus
+    code: e3dc
+  - key: filter_drama
+    code: e3dd
+  - key: filter_frames
+    code: e3de
+  - key: filter_hdr
+    code: e3df
+  - key: filter_list
+    code: e152
+  - key: filter_none
+    code: e3e0
+  - key: filter_tilt_shift
+    code: e3e2
+  - key: filter_vintage
+    code: e3e3
+  - key: find_in_page
+    code: e880
+  - key: find_replace
+    code: e881
+  - key: fingerprint
+    code: e90d
+  - key: first_page
+    code: e5dc
+  - key: fitness_center
+    code: eb43
+  - key: flag
+    code: e153
+  - key: flare
+    code: e3e4
+  - key: flash_auto
+    code: e3e5
+  - key: flash_off
+    code: e3e6
+  - key: flash_on
+    code: e3e7
+  - key: flight
+    code: e539
+  - key: flight_land
+    code: e904
+  - key: flight_takeoff
+    code: e905
+  - key: flip
+    code: e3e8
+  - key: flip_to_back
+    code: e882
+  - key: flip_to_front
+    code: e883
+  - key: folder
+    code: e2c7
+  - key: folder_open
+    code: e2c8
+  - key: folder_shared
+    code: e2c9
+  - key: folder_special
+    code: e617
+  - key: font_download
+    code: e167
+  - key: format_align_center
+    code: e234
+  - key: format_align_justify
+    code: e235
+  - key: format_align_left
+    code: e236
+  - key: format_align_right
+    code: e237
+  - key: format_bold
+    code: e238
+  - key: format_clear
+    code: e239
+  - key: format_color_fill
+    code: e23a
+  - key: format_color_reset
+    code: e23b
+  - key: format_color_text
+    code: e23c
+  - key: format_indent_decrease
+    code: e23d
+  - key: format_indent_increase
+    code: e23e
+  - key: format_italic
+    code: e23f
+  - key: format_line_spacing
+    code: e240
+  - key: format_list_bulleted
+    code: e241
+  - key: format_list_numbered
+    code: e242
+  - key: format_paint
+    code: e243
+  - key: format_quote
+    code: e244
+  - key: format_shapes
+    code: e25e
+  - key: format_size
+    code: e245
+  - key: format_strikethrough
+    code: e246
+  - key: format_textdirection_l_to_r
+    code: e247
+  - key: format_textdirection_r_to_l
+    code: e248
+  - key: format_underlined
+    code: e249
+  - key: forum
+    code: e0bf
+  - key: forward
+    code: e154
+  - key: forward_10
+    code: e056
+  - key: forward_30
+    code: e057
+  - key: forward_5
+    code: e058
+  - key: free_breakfast
+    code: eb44
+  - key: fullscreen
+    code: e5d0
+  - key: fullscreen_exit
+    code: e5d1
+  - key: functions
+    code: e24a
+  - key: g_translate
+    code: e927
+  - key: gamepad
+    code: e30f
+  - key: games
+    code: e021
+  - key: gavel
+    code: e90e
+  - key: gesture
+    code: e155
+  - key: get_app
+    code: e884
+  - key: gif
+    code: e908
+  - key: golf_course
+    code: eb45
+  - key: gps_fixed
+    code: e1b3
+  - key: gps_not_fixed
+    code: e1b4
+  - key: gps_off
+    code: e1b5
+  - key: grade
+    code: e885
+  - key: gradient
+    code: e3e9
+  - key: grain
+    code: e3ea
+  - key: graphic_eq
+    code: e1b8
+  - key: grid_off
+    code: e3eb
+  - key: grid_on
+    code: e3ec
+  - key: group
+    code: e7ef
+  - key: group_add
+    code: e7f0
+  - key: group_work
+    code: e886
+  - key: hd
+    code: e052
+  - key: hdr_off
+    code: e3ed
+  - key: hdr_on
+    code: e3ee
+  - key: hdr_strong
+    code: e3f1
+  - key: hdr_weak
+    code: e3f2
+  - key: headset
+    code: e310
+  - key: headset_mic
+    code: e311
+  - key: healing
+    code: e3f3
+  - key: hearing
+    code: e023
+  - key: help
+    code: e887
+  - key: help_outline
+    code: e8fd
+  - key: high_quality
+    code: e024
+  - key: highlight
+    code: e25f
+  - key: highlight_off
+    code: e888
+  - key: history
+    code: e889
+  - key: home
+    code: e88a
+  - key: hot_tub
+    code: eb46
+  - key: hotel
+    code: e53a
+  - key: hourglass_empty
+    code: e88b
+  - key: hourglass_full
+    code: e88c
+  - key: http
+    code: e902
+  - key: https
+    code: e88d
+  - key: image
+    code: e3f4
+  - key: image_aspect_ratio
+    code: e3f5
+  - key: import_contacts
+    code: e0e0
+  - key: import_export
+    code: e0c3
+  - key: important_devices
+    code: e912
+  - key: inbox
+    code: e156
+  - key: indeterminate_check_box
+    code: e909
+  - key: info
+    code: e88e
+  - key: info_outline
+    code: e88f
+  - key: input
+    code: e890
+  - key: insert_chart
+    code: e24b
+  - key: insert_comment
+    code: e24c
+  - key: insert_drive_file
+    code: e24d
+  - key: insert_emoticon
+    code: e24e
+  - key: insert_invitation
+    code: e24f
+  - key: insert_link
+    code: e250
+  - key: insert_photo
+    code: e251
+  - key: invert_colors
+    code: e891
+  - key: invert_colors_off
+    code: e0c4
+  - key: iso
+    code: e3f6
+  - key: keyboard
+    code: e312
+  - key: keyboard_arrow_down
+    code: e313
+  - key: keyboard_arrow_left
+    code: e314
+  - key: keyboard_arrow_right
+    code: e315
+  - key: keyboard_arrow_up
+    code: e316
+  - key: keyboard_backspace
+    code: e317
+  - key: keyboard_capslock
+    code: e318
+  - key: keyboard_hide
+    code: e31a
+  - key: keyboard_return
+    code: e31b
+  - key: keyboard_tab
+    code: e31c
+  - key: keyboard_voice
+    code: e31d
+  - key: kitchen
+    code: eb47
+  - key: label
+    code: e892
+  - key: label_outline
+    code: e893
+  - key: landscape
+    code: e3f7
+  - key: language
+    code: e894
+  - key: laptop
+    code: e31e
+  - key: laptop_chromebook
+    code: e31f
+  - key: laptop_mac
+    code: e320
+  - key: laptop_windows
+    code: e321
+  - key: last_page
+    code: e5dd
+  - key: launch
+    code: e895
+  - key: layers
+    code: e53b
+  - key: layers_clear
+    code: e53c
+  - key: leak_add
+    code: e3f8
+  - key: leak_remove
+    code: e3f9
+  - key: lens
+    code: e3fa
+  - key: library_add
+    code: e02e
+  - key: library_books
+    code: e02f
+  - key: library_music
+    code: e030
+  - key: lightbulb_outline
+    code: e90f
+  - key: line_style
+    code: e919
+  - key: line_weight
+    code: e91a
+  - key: linear_scale
+    code: e260
+  - key: link
+    code: e157
+  - key: linked_camera
+    code: e438
+  - key: list
+    code: e896
+  - key: live_help
+    code: e0c6
+  - key: live_tv
+    code: e639
+  - key: local_activity
+    code: e53f
+  - key: local_airport
+    code: e53d
+  - key: local_atm
+    code: e53e
+  - key: local_bar
+    code: e540
+  - key: local_cafe
+    code: e541
+  - key: local_car_wash
+    code: e542
+  - key: local_convenience_store
+    code: e543
+  - key: local_dining
+    code: e556
+  - key: local_drink
+    code: e544
+  - key: local_florist
+    code: e545
+  - key: local_gas_station
+    code: e546
+  - key: local_grocery_store
+    code: e547
+  - key: local_hospital
+    code: e548
+  - key: local_hotel
+    code: e549
+  - key: local_laundry_service
+    code: e54a
+  - key: local_library
+    code: e54b
+  - key: local_mall
+    code: e54c
+  - key: local_movies
+    code: e54d
+  - key: local_offer
+    code: e54e
+  - key: local_parking
+    code: e54f
+  - key: local_pharmacy
+    code: e550
+  - key: local_phone
+    code: e551
+  - key: local_pizza
+    code: e552
+  - key: local_play
+    code: e553
+  - key: local_post_office
+    code: e554
+  - key: local_printshop
+    code: e555
+  - key: local_see
+    code: e557
+  - key: local_shipping
+    code: e558
+  - key: local_taxi
+    code: e559
+  - key: location_city
+    code: e7f1
+  - key: location_disabled
+    code: e1b6
+  - key: location_off
+    code: e0c7
+  - key: location_on
+    code: e0c8
+  - key: location_searching
+    code: e1b7
+  - key: lock
+    code: e897
+  - key: lock_open
+    code: e898
+  - key: lock_outline
+    code: e899
+  - key: looks
+    code: e3fc
+  - key: looks_3
+    code: e3fb
+  - key: looks_4
+    code: e3fd
+  - key: looks_5
+    code: e3fe
+  - key: looks_6
+    code: e3ff
+  - key: looks_one
+    code: e400
+  - key: looks_two
+    code: e401
+  - key: loop
+    code: e028
+  - key: loupe
+    code: e402
+  - key: low_priority
+    code: e16d
+  - key: loyalty
+    code: e89a
+  - key: mail
+    code: e158
+  - key: mail_outline
+    code: e0e1
+  - key: map
+    code: e55b
+  - key: markunread
+    code: e159
+  - key: markunread_mailbox
+    code: e89b
+  - key: memory
+    code: e322
+  - key: menu
+    code: e5d2
+  - key: merge_type
+    code: e252
+  - key: message
+    code: e0c9
+  - key: mic
+    code: e029
+  - key: mic_none
+    code: e02a
+  - key: mic_off
+    code: e02b
+  - key: mms
+    code: e618
+  - key: mode_comment
+    code: e253
+  - key: mode_edit
+    code: e254
+  - key: monetization_on
+    code: e263
+  - key: money_off
+    code: e25c
+  - key: monochrome_photos
+    code: e403
+  - key: mood
+    code: e7f2
+  - key: mood_bad
+    code: e7f3
+  - key: more
+    code: e619
+  - key: more_horiz
+    code: e5d3
+  - key: more_vert
+    code: e5d4
+  - key: motorcycle
+    code: e91b
+  - key: mouse
+    code: e323
+  - key: move_to_inbox
+    code: e168
+  - key: movie
+    code: e02c
+  - key: movie_creation
+    code: e404
+  - key: movie_filter
+    code: e43a
+  - key: multiline_chart
+    code: e6df
+  - key: music_note
+    code: e405
+  - key: music_video
+    code: e063
+  - key: my_location
+    code: e55c
+  - key: nature
+    code: e406
+  - key: nature_people
+    code: e407
+  - key: navigate_before
+    code: e408
+  - key: navigate_next
+    code: e409
+  - key: navigation
+    code: e55d
+  - key: near_me
+    code: e569
+  - key: network_cell
+    code: e1b9
+  - key: network_check
+    code: e640
+  - key: network_locked
+    code: e61a
+  - key: network_wifi
+    code: e1ba
+  - key: new_releases
+    code: e031
+  - key: next_week
+    code: e16a
+  - key: nfc
+    code: e1bb
+  - key: no_encryption
+    code: e641
+  - key: no_sim
+    code: e0cc
+  - key: not_interested
+    code: e033
+  - key: note
+    code: e06f
+  - key: note_add
+    code: e89c
+  - key: notifications
+    code: e7f4
+  - key: notifications_active
+    code: e7f7
+  - key: notifications_none
+    code: e7f5
+  - key: notifications_off
+    code: e7f6
+  - key: notifications_paused
+    code: e7f8
+  - key: offline_pin
+    code: e90a
+  - key: ondemand_video
+    code: e63a
+  - key: opacity
+    code: e91c
+  - key: open_in_browser
+    code: e89d
+  - key: open_in_new
+    code: e89e
+  - key: open_with
+    code: e89f
+  - key: pages
+    code: e7f9
+  - key: pageview
+    code: e8a0
+  - key: palette
+    code: e40a
+  - key: pan_tool
+    code: e925
+  - key: panorama
+    code: e40b
+  - key: panorama_fish_eye
+    code: e40c
+  - key: panorama_horizontal
+    code: e40d
+  - key: panorama_vertical
+    code: e40e
+  - key: panorama_wide_angle
+    code: e40f
+  - key: party_mode
+    code: e7fa
+  - key: pause
+    code: e034
+  - key: pause_circle_filled
+    code: e035
+  - key: pause_circle_outline
+    code: e036
+  - key: payment
+    code: e8a1
+  - key: people
+    code: e7fb
+  - key: people_outline
+    code: e7fc
+  - key: perm_camera_mic
+    code: e8a2
+  - key: perm_contact_calendar
+    code: e8a3
+  - key: perm_data_setting
+    code: e8a4
+  - key: perm_device_information
+    code: e8a5
+  - key: perm_identity
+    code: e8a6
+  - key: perm_media
+    code: e8a7
+  - key: perm_phone_msg
+    code: e8a8
+  - key: perm_scan_wifi
+    code: e8a9
+  - key: person
+    code: e7fd
+  - key: person_add
+    code: e7fe
+  - key: person_outline
+    code: e7ff
+  - key: person_pin
+    code: e55a
+  - key: person_pin_circle
+    code: e56a
+  - key: personal_video
+    code: e63b
+  - key: pets
+    code: e91d
+  - key: phone
+    code: e0cd
+  - key: phone_android
+    code: e324
+  - key: phone_bluetooth_speaker
+    code: e61b
+  - key: phone_forwarded
+    code: e61c
+  - key: phone_in_talk
+    code: e61d
+  - key: phone_iphone
+    code: e325
+  - key: phone_locked
+    code: e61e
+  - key: phone_missed
+    code: e61f
+  - key: phone_paused
+    code: e620
+  - key: phonelink
+    code: e326
+  - key: phonelink_erase
+    code: e0db
+  - key: phonelink_lock
+    code: e0dc
+  - key: phonelink_off
+    code: e327
+  - key: phonelink_ring
+    code: e0dd
+  - key: phonelink_setup
+    code: e0de
+  - key: photo
+    code: e410
+  - key: photo_album
+    code: e411
+  - key: photo_camera
+    code: e412
+  - key: photo_filter
+    code: e43b
+  - key: photo_library
+    code: e413
+  - key: photo_size_select_actual
+    code: e432
+  - key: photo_size_select_large
+    code: e433
+  - key: photo_size_select_small
+    code: e434
+  - key: picture_as_pdf
+    code: e415
+  - key: picture_in_picture
+    code: e8aa
+  - key: picture_in_picture_alt
+    code: e911
+  - key: pie_chart
+    code: e6c4
+  - key: pie_chart_outlined
+    code: e6c5
+  - key: pin_drop
+    code: e55e
+  - key: place
+    code: e55f
+  - key: play_arrow
+    code: e037
+  - key: play_circle_filled
+    code: e038
+  - key: play_circle_outline
+    code: e039
+  - key: play_for_work
+    code: e906
+  - key: playlist_add
+    code: e03b
+  - key: playlist_add_check
+    code: e065
+  - key: playlist_play
+    code: e05f
+  - key: plus_one
+    code: e800
+  - key: poll
+    code: e801
+  - key: polymer
+    code: e8ab
+  - key: pool
+    code: eb48
+  - key: portable_wifi_off
+    code: e0ce
+  - key: portrait
+    code: e416
+  - key: power
+    code: e63c
+  - key: power_input
+    code: e336
+  - key: power_settings_new
+    code: e8ac
+  - key: pregnant_woman
+    code: e91e
+  - key: present_to_all
+    code: e0df
+  - key: print
+    code: e8ad
+  - key: priority_high
+    code: e645
+  - key: public
+    code: e80b
+  - key: publish
+    code: e255
+  - key: query_builder
+    code: e8ae
+  - key: question_answer
+    code: e8af
+  - key: queue
+    code: e03c
+  - key: queue_music
+    code: e03d
+  - key: queue_play_next
+    code: e066
+  - key: radio
+    code: e03e
+  - key: radio_button_checked
+    code: e837
+  - key: radio_button_unchecked
+    code: e836
+  - key: rate_review
+    code: e560
+  - key: receipt
+    code: e8b0
+  - key: recent_actors
+    code: e03f
+  - key: record_voice_over
+    code: e91f
+  - key: redeem
+    code: e8b1
+  - key: redo
+    code: e15a
+  - key: refresh
+    code: e5d5
+  - key: remove
+    code: e15b
+  - key: remove_circle
+    code: e15c
+  - key: remove_circle_outline
+    code: e15d
+  - key: remove_from_queue
+    code: e067
+  - key: remove_red_eye
+    code: e417
+  - key: remove_shopping_cart
+    code: e928
+  - key: reorder
+    code: e8fe
+  - key: repeat
+    code: e040
+  - key: repeat_one
+    code: e041
+  - key: replay
+    code: e042
+  - key: replay_10
+    code: e059
+  - key: replay_30
+    code: e05a
+  - key: replay_5
+    code: e05b
+  - key: reply
+    code: e15e
+  - key: reply_all
+    code: e15f
+  - key: report
+    code: e160
+  - key: report_problem
+    code: e8b2
+  - key: restaurant
+    code: e56c
+  - key: restaurant_menu
+    code: e561
+  - key: restore
+    code: e8b3
+  - key: restore_page
+    code: e929
+  - key: ring_volume
+    code: e0d1
+  - key: room
+    code: e8b4
+  - key: room_service
+    code: eb49
+  - key: rotate_90_degrees_ccw
+    code: e418
+  - key: rotate_left
+    code: e419
+  - key: rotate_right
+    code: e41a
+  - key: rounded_corner
+    code: e920
+  - key: router
+    code: e328
+  - key: rowing
+    code: e921
+  - key: rss_feed
+    code: e0e5
+  - key: rv_hookup
+    code: e642
+  - key: satellite
+    code: e562
+  - key: save
+    code: e161
+  - key: scanner
+    code: e329
+  - key: schedule
+    code: e8b5
+  - key: school
+    code: e80c
+  - key: screen_lock_landscape
+    code: e1be
+  - key: screen_lock_portrait
+    code: e1bf
+  - key: screen_lock_rotation
+    code: e1c0
+  - key: screen_rotation
+    code: e1c1
+  - key: screen_share
+    code: e0e2
+  - key: sd_card
+    code: e623
+  - key: sd_storage
+    code: e1c2
+  - key: search
+    code: e8b6
+  - key: security
+    code: e32a
+  - key: select_all
+    code: e162
+  - key: send
+    code: e163
+  - key: sentiment_dissatisfied
+    code: e811
+  - key: sentiment_neutral
+    code: e812
+  - key: sentiment_satisfied
+    code: e813
+  - key: sentiment_very_dissatisfied
+    code: e814
+  - key: sentiment_very_satisfied
+    code: e815
+  - key: settings
+    code: e8b8
+  - key: settings_applications
+    code: e8b9
+  - key: settings_backup_restore
+    code: e8ba
+  - key: settings_bluetooth
+    code: e8bb
+  - key: settings_brightness
+    code: e8bd
+  - key: settings_cell
+    code: e8bc
+  - key: settings_ethernet
+    code: e8be
+  - key: settings_input_antenna
+    code: e8bf
+  - key: settings_input_component
+    code: e8c0
+  - key: settings_input_composite
+    code: e8c1
+  - key: settings_input_hdmi
+    code: e8c2
+  - key: settings_input_svideo
+    code: e8c3
+  - key: settings_overscan
+    code: e8c4
+  - key: settings_phone
+    code: e8c5
+  - key: settings_power
+    code: e8c6
+  - key: settings_remote
+    code: e8c7
+  - key: settings_system_daydream
+    code: e1c3
+  - key: settings_voice
+    code: e8c8
+  - key: share
+    code: e80d
+  - key: shop
+    code: e8c9
+  - key: shop_two
+    code: e8ca
+  - key: shopping_basket
+    code: e8cb
+  - key: shopping_cart
+    code: e8cc
+  - key: short_text
+    code: e261
+  - key: show_chart
+    code: e6e1
+  - key: shuffle
+    code: e043
+  - key: signal_cellular_4_bar
+    code: e1c8
+  - key: signal_cellular_connected_no_internet_4_bar
+    code: e1cd
+  - key: signal_cellular_no_sim
+    code: e1ce
+  - key: signal_cellular_null
+    code: e1cf
+  - key: signal_cellular_off
+    code: e1d0
+  - key: signal_wifi_4_bar
+    code: e1d8
+  - key: signal_wifi_4_bar_lock
+    code: e1d9
+  - key: signal_wifi_off
+    code: e1da
+  - key: sim_card
+    code: e32b
+  - key: sim_card_alert
+    code: e624
+  - key: skip_next
+    code: e044
+  - key: skip_previous
+    code: e045
+  - key: slideshow
+    code: e41b
+  - key: slow_motion_video
+    code: e068
+  - key: smartphone
+    code: e32c
+  - key: smoke_free
+    code: eb4a
+  - key: smoking_rooms
+    code: eb4b
+  - key: sms
+    code: e625
+  - key: sms_failed
+    code: e626
+  - key: snooze
+    code: e046
+  - key: sort
+    code: e164
+  - key: sort_by_alpha
+    code: e053
+  - key: spa
+    code: eb4c
+  - key: space_bar
+    code: e256
+  - key: speaker
+    code: e32d
+  - key: speaker_group
+    code: e32e
+  - key: speaker_notes
+    code: e8cd
+  - key: speaker_notes_off
+    code: e92a
+  - key: speaker_phone
+    code: e0d2
+  - key: spellcheck
+    code: e8ce
+  - key: star
+    code: e838
+  - key: star_border
+    code: e83a
+  - key: star_half
+    code: e839
+  - key: stars
+    code: e8d0
+  - key: stay_current_landscape
+    code: e0d3
+  - key: stay_current_portrait
+    code: e0d4
+  - key: stay_primary_landscape
+    code: e0d5
+  - key: stay_primary_portrait
+    code: e0d6
+  - key: stop
+    code: e047
+  - key: stop_screen_share
+    code: e0e3
+  - key: storage
+    code: e1db
+  - key: store
+    code: e8d1
+  - key: store_mall_directory
+    code: e563
+  - key: straighten
+    code: e41c
+  - key: streetview
+    code: e56e
+  - key: strikethrough_s
+    code: e257
+  - key: style
+    code: e41d
+  - key: subdirectory_arrow_left
+    code: e5d9
+  - key: subdirectory_arrow_right
+    code: e5da
+  - key: subject
+    code: e8d2
+  - key: subscriptions
+    code: e064
+  - key: subtitles
+    code: e048
+  - key: subway
+    code: e56f
+  - key: supervisor_account
+    code: e8d3
+  - key: surround_sound
+    code: e049
+  - key: swap_calls
+    code: e0d7
+  - key: swap_horiz
+    code: e8d4
+  - key: swap_vert
+    code: e8d5
+  - key: swap_vertical_circle
+    code: e8d6
+  - key: switch_camera
+    code: e41e
+  - key: switch_video
+    code: e41f
+  - key: sync
+    code: e627
+  - key: sync_disabled
+    code: e628
+  - key: sync_problem
+    code: e629
+  - key: system_update
+    code: e62a
+  - key: system_update_alt
+    code: e8d7
+  - key: tab
+    code: e8d8
+  - key: tab_unselected
+    code: e8d9
+  - key: tablet
+    code: e32f
+  - key: tablet_android
+    code: e330
+  - key: tablet_mac
+    code: e331
+  - key: tag_faces
+    code: e420
+  - key: tap_and_play
+    code: e62b
+  - key: terrain
+    code: e564
+  - key: text_fields
+    code: e262
+  - key: text_format
+    code: e165
+  - key: textsms
+    code: e0d8
+  - key: texture
+    code: e421
+  - key: theaters
+    code: e8da
+  - key: thumb_down
+    code: e8db
+  - key: thumb_up
+    code: e8dc
+  - key: thumbs_up_down
+    code: e8dd
+  - key: time_to_leave
+    code: e62c
+  - key: timelapse
+    code: e422
+  - key: timeline
+    code: e922
+  - key: timer
+    code: e425
+  - key: timer_10
+    code: e423
+  - key: timer_3
+    code: e424
+  - key: timer_off
+    code: e426
+  - key: title
+    code: e264
+  - key: toc
+    code: e8de
+  - key: today
+    code: e8df
+  - key: toll
+    code: e8e0
+  - key: tonality
+    code: e427
+  - key: touch_app
+    code: e913
+  - key: toys
+    code: e332
+  - key: track_changes
+    code: e8e1
+  - key: traffic
+    code: e565
+  - key: train
+    code: e570
+  - key: tram
+    code: e571
+  - key: transfer_within_a_station
+    code: e572
+  - key: transform
+    code: e428
+  - key: translate
+    code: e8e2
+  - key: trending_down
+    code: e8e3
+  - key: trending_flat
+    code: e8e4
+  - key: trending_up
+    code: e8e5
+  - key: tune
+    code: e429
+  - key: turned_in
+    code: e8e6
+  - key: turned_in_not
+    code: e8e7
+  - key: tv
+    code: e333
+  - key: unarchive
+    code: e169
+  - key: undo
+    code: e166
+  - key: unfold_less
+    code: e5d6
+  - key: unfold_more
+    code: e5d7
+  - key: update
+    code: e923
+  - key: usb
+    code: e1e0
+  - key: verified_user
+    code: e8e8
+  - key: vertical_align_bottom
+    code: e258
+  - key: vertical_align_center
+    code: e259
+  - key: vertical_align_top
+    code: e25a
+  - key: vibration
+    code: e62d
+  - key: video_call
+    code: e070
+  - key: video_label
+    code: e071
+  - key: video_library
+    code: e04a
+  - key: videocam
+    code: e04b
+  - key: videocam_off
+    code: e04c
+  - key: videogame_asset
+    code: e338
+  - key: view_agenda
+    code: e8e9
+  - key: view_array
+    code: e8ea
+  - key: view_carousel
+    code: e8eb
+  - key: view_column
+    code: e8ec
+  - key: view_comfy
+    code: e42a
+  - key: view_compact
+    code: e42b
+  - key: view_day
+    code: e8ed
+  - key: view_headline
+    code: e8ee
+  - key: view_list
+    code: e8ef
+  - key: view_module
+    code: e8f0
+  - key: view_quilt
+    code: e8f1
+  - key: view_stream
+    code: e8f2
+  - key: view_week
+    code: e8f3
+  - key: vignette
+    code: e435
+  - key: visibility
+    code: e8f4
+  - key: visibility_off
+    code: e8f5
+  - key: voice_chat
+    code: e62e
+  - key: voicemail
+    code: e0d9
+  - key: volume_down
+    code: e04d
+  - key: volume_mute
+    code: e04e
+  - key: volume_off
+    code: e04f
+  - key: volume_up
+    code: e050
+  - key: vpn_key
+    code: e0da
+  - key: vpn_lock
+    code: e62f
+  - key: wallpaper
+    code: e1bc
+  - key: warning
+    code: e002
+  - key: watch
+    code: e334
+  - key: watch_later
+    code: e924
+  - key: wb_auto
+    code: e42c
+  - key: wb_cloudy
+    code: e42d
+  - key: wb_incandescent
+    code: e42e
+  - key: wb_iridescent
+    code: e436
+  - key: wb_sunny
+    code: e430
+  - key: wc
+    code: e63d
+  - key: web
+    code: e051
+  - key: web_asset
+    code: e069
+  - key: weekend
+    code: e16b
+  - key: whatshot
+    code: e80e
+  - key: widgets
+    code: e1bd
+  - key: wifi
+    code: e63e
+  - key: wifi_lock
+    code: e1e1
+  - key: wifi_tethering
+    code: e1e2
+  - key: work
+    code: e8f9
+  - key: wrap_text
+    code: e25b
+  - key: youtube_searched_for
+    code: e8fa
+  - key: zoom_in
+    code: e8ff
+  - key: zoom_out
+    code: e900
+  - key: zoom_out_map
+    code: e56b
